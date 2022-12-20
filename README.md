@@ -50,7 +50,3 @@ I am available through the following mediums. Please feel free to contact me.
         <a href="https://kunalmishra2020.github.io/"><img width="32px" title="Portfolio" src="https://img.icons8.com/color/8x/000000/web.png"/></a>
     </code>
 </div>
-
-<img title="Lets Solve"
-src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg"
-/>
