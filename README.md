@@ -1,26 +1,55 @@
-# Hey there 👋
+# 👋 Hey, I'm Kunal Mishra
 
-## Summary
+🚀 **Backend Engineer | Cloud-Native Architect | System Design Enthusiast**  
+Building scalable systems, automating cloud infra, and occasionally exploring AI + Blockchain.
 
-I'm a backend engineer with 5+ years of experience in building scalable, cloud-native applications using Node.js, Python, TypeScript, and AWS Serverless. I specialize in architecting distributed systems, designing high-performance APIs, and managing microservices at scale.
+---
 
-## Skills
+## 💼 Summary
 
-- Node.js
-- Python
-- Amazon Web Services (AWS)
-- TypeScript
-- NestJS
-- MongoDB
-- PostgreSQL
-- Redis
-- Docker
-- Terraform
-- Git
+I'm a backend engineer passionate about crafting reliable, high-performance systems. I’ve worked across fast-paced startups to enterprise SaaS platforms, focusing on:
 
-## Contact
+- Designing distributed, event-driven architectures
+- Building cloud-native APIs using Node.js, TypeScript, and Python
+- Scaling serverless apps with AWS Lambda, SQS, SNS, and RDS
+- Automating infra using Terraform, Docker, and CI/CD pipelines
+- Integrating emerging technologies like LLMs and blockchain when it fits the problem
 
-[LinkedIn](https://www.linkedin.com/in/kunalmishra2020)
-[Twitter](https://twitter.com/kunalmishra2020)
+I believe in clean architecture, measurable impact, and writing code that’s easy to reason about—even six months later.
 
-[Resume](./assets/KunalMishra.pdf)
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+`Node.js` `NestJS` `Express` `TypeScript` `Python`
+
+**Cloud & Infrastructure:**  
+`AWS (Lambda, API Gateway, S3, RDS, SQS, SNS)`  
+`Docker` `Terraform` `Serverless` `CloudFormation`
+
+**Databases & Messaging:**  
+`PostgreSQL` `MongoDB` `Redis` `DynamoDB` `SQS/SNS`
+
+**Other Tools:**  
+`Git` `CI/CD` `Bitbucket Pipelines` `Linux`
+
+---
+
+## 🌱 Currently Exploring
+
+- Blockchain infrastructure and smart contract tooling
+- Practical AI/LLM use-cases in backend workflows
+- Advanced system observability and cost optimization strategies
+
+---
+
+## 📫 Contact Me
+
+- [📇 LinkedIn](https://www.linkedin.com/in/kunalmishra2020)
+- [🐦 Twitter](https://twitter.com/kunalmishra2020)
+- [📄 Resume](./assets/kunal_mishra.pdf)
+
+---
+
+Thanks for stopping by! Feel free to connect, collaborate, or just say hi 👋
