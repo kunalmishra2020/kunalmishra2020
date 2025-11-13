@@ -1,55 +1,40 @@
 # 👋 Hey, I'm Kunal Mishra
 
-🚀 **Backend Engineer | Cloud-Native Architect | System Design Enthusiast**  
-Building scalable systems, automating cloud infra, and occasionally exploring AI + Blockchain.
+🚀 **Senior Software Engineer | Distributed Systems & Cloud Infra Specialist**
+
+I build scalable, reliable, and maintainable backend systems — the kind that stay fast, observable, and easy to evolve as products grow.
 
 ---
 
-## 💼 Summary
+## 📇 Connect
 
-I'm a backend engineer passionate about crafting reliable, high-performance systems. I’ve worked across fast-paced startups to enterprise SaaS platforms, focusing on:
+- [LinkedIn](https://www.linkedin.com/in/kunalmishra2020/)
+- [Portfolio](https://kunalmishra2020.github.io/)
 
-- Designing distributed, event-driven architectures
-- Building cloud-native APIs using Node.js, TypeScript, and Python
-- Scaling serverless apps with AWS Lambda, SQS, SNS, and RDS
-- Automating infra using Terraform, Docker, and CI/CD pipelines
-- Integrating emerging technologies like LLMs and blockchain when it fits the problem
+---
 
-I believe in clean architecture, measurable impact, and writing code that’s easy to reason about—even six months later.
+## 💼 Highlights
+
+- Designed and scaled **microservice ecosystems** supporting millions of transactions
+- Built **fault-tolerant APIs** with strong observability and automated recovery
+- Led **development and CI/CD initiatives**, cutting release times and improving test coverage
+- Automated provisioning and scaling through **Terraform + AWS**
+- Architected **real-time data and event pipelines** with Kafka and Redis Streams
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-`Node.js` `NestJS` `Express` `TypeScript` `Python`
+`Python` `JavaScript` `TypeScript` `Bash`
+`FastAPI` `Node.js` `NestJS` `Express` `Angular` `React`
 
 **Cloud & Infrastructure:**  
-`AWS (Lambda, API Gateway, S3, RDS, SQS, SNS)`  
-`Docker` `Terraform` `Serverless` `CloudFormation`
+`AWS` (`ECS`, `Lambda`, `Stepfunctions`, `S3`, `RDS`, `SQS`, `SNS`)  
+`Docker` `Kubernetes` `Terraform` `Serverless`
 
-**Databases & Messaging:**  
-`PostgreSQL` `MongoDB` `Redis` `DynamoDB` `SQS/SNS`
+**Data & Messaging:**  
+`PostgreSQL` `MongoDB` `Redis` `Kafka` `SQS/SNS` `RPC`
 
-**Other Tools:**  
-`Git` `CI/CD` `Bitbucket Pipelines` `Linux`
-
----
-
-## 🌱 Currently Exploring
-
-- Blockchain infrastructure and smart contract tooling
-- Practical AI/LLM use-cases in backend workflows
-- Advanced system observability and cost optimization strategies
-
----
-
-## 📫 Contact Me
-
-- [📇 LinkedIn](https://www.linkedin.com/in/kunalmishra2020)
-- [🐦 Twitter](https://twitter.com/kunalmishra2020)
-- [📄 Resume](./assets/kunal_mishra.pdf)
-
----
-
-Thanks for stopping by! Feel free to connect, collaborate, or just say hi 👋
+**Other:**  
+`Git` `CI/CD` `Bitbucket Pipelines` `Linux` `Prometheus` `Grafana`
