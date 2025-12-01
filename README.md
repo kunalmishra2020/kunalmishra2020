@@ -1,40 +1,53 @@
 # 👋 Hey, I'm Kunal Mishra
 
-🚀 **Senior Software Engineer | Distributed Systems & Cloud Infra Specialist**
+## 🚀 **Senior Software Engineer | Cloud Infrastructure Specialist** ☁️
 
-I build scalable, reliable, and maintainable backend systems — the kind that stay fast, observable, and easy to evolve as products grow.
+I build scalable, reliable, and maintainable systems. The kind that stay fast, observable, and easy to evolve as products grow.
 
----
-
-## 📇 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/kunalmishra2020/)
-- [Portfolio](https://kunalmishra2020.github.io/)
+### [LinkedIn](https://www.linkedin.com/in/kunalmishra2020/) | [Portfolio](https://kunalmishra2020.github.io/)
 
 ---
 
-## 💼 Highlights
+## 💼 Highlights - What I have built
 
-- Designed and scaled **microservice ecosystems** supporting millions of transactions
-- Built **fault-tolerant APIs** with strong observability and automated recovery
-- Led **development and CI/CD initiatives**, cutting release times and improving test coverage
-- Automated provisioning and scaling through **Terraform + AWS**
-- Architected **real-time data and event pipelines** with Kafka and Redis Streams
+- a
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack — Core Competencies
 
-**Languages & Frameworks:**  
-`Python` `JavaScript` `TypeScript` `Bash`
-`FastAPI` `Node.js` `NestJS` `Express` `Angular` `React`
+**Infrastructure & Cloud (AWS):**  
+`EC2` `ECS` `ECR` `RDS` `VPC` `IAM` `Route 53`  
+`S3` `EFS` `ELB` `API Gateway` `SSM`  
+`Lambda` `Lambda Layers` `Step Functions`  
+`SQS` `SNS` `SES`  
+`Site-to-Site VPN`
 
-**Cloud & Infrastructure:**  
-`AWS` (`ECS`, `Lambda`, `Stepfunctions`, `S3`, `RDS`, `SQS`, `SNS`)  
-`Docker` `Kubernetes` `Terraform` `Serverless`
+**Infrastructure as Code / DevOps:**  
+`Terraform` `CloudFormation`  
+`Docker` `Kubernetes`  
+`Linux`  
+`Git` `CI/CD` `GitHub Actions` `Bitbucket Pipelines`
 
-**Data & Messaging:**  
-`PostgreSQL` `MongoDB` `Redis` `Kafka` `SQS/SNS` `RPC`
+**Backend Engineering:**  
+`Node.js` `NestJS` `Express`  
+`Python` `FastAPI`  
+`JavaScript` `TypeScript` `Bash`  
+`REST` `GraphQL`
 
-**Other:**  
-`Git` `CI/CD` `Bitbucket Pipelines` `Linux` `Prometheus` `Grafana`
+**Architecture Patterns:**  
+`Cloud Native Microservices`  
+`Event-Driven`  
+`Serverless`  
+`Hybrid Architectures`
+
+**Datastores:**  
+`PostgreSQL` `MongoDB` `Redis` `DynamoDB`
+
+**Observability & Monitoring:**  
+`CloudWatch` `ELK`
+
+**Interpersonal & Team Skills:**  
+`Adaptability in High-Growth Environments`  
+`User-Centric Mindset`  
+`Mentoring`
