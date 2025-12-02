@@ -10,11 +10,35 @@ I build scalable, reliable, and maintainable systems. The kind that stay fast, o
 
 ## 💼 Highlights - What I have built
 
-- a
+- Developed scalable backend services using TypeScript, Node.js, and NestJS, focusing on performance, reliability, and clean architectural boundaries.
+
+- Built modular, secure, production-ready Terraform infrastructure with reusable patterns that support multi-environment consistency and automated provisioning.
+
+- Optimized and maintained PostgreSQL and MongoDB in production, covering schema design, performance tuning, indexing strategy, and operational stability.
+
+- Designed and operated systems across EC2, ECS, RDS, S3, CloudWatch, and broader AWS ecosystem services, including scaling policies, cost controls, and uptime improvements.
+
+- Delivered internal tooling, platform APIs, and reusable infra modules that improved developer velocity and reduced onboarding time for product teams.
+
+- Owned the full lifecycle of platform features: architecture, implementation, CI/CD integration, deployment, monitoring, and operational support.
+
+- Led incident response, on-call rotations, and root-cause analysis, ensuring resilient, well-instrumented production environments.
+
+- Built and maintained CI/CD pipelines (GitHub Actions, Bitbucket Pipelines) with automated testing, gated deployments, environment orchestration, and rollback workflows.
+
+- Operated with a strong DevOps and SRE mindset, prioritizing automation, observability, and system reliability over manual processes.
+
+- Worked effectively in high-ambiguity, fast-moving environments, making sound decisions with available information and delivering high-leverage solutions quickly.
+
+- Experienced with clear technical writing, documentation, and cross-team alignment in distributed remote teams.
+
+- Engaged directly with internal users to understand bottlenecks and design platform-first solutions that improve developer experience and operational efficiency.
+
+- Comfortable working independently with high ownership.
 
 ---
 
-## 🛠️ Tech Stack — Core Competencies
+## 🛠️ Tech Stack - Core Competencies
 
 **Infrastructure & Cloud (AWS):**  
 `EC2` `ECS` `ECR` `RDS` `VPC` `Cloudwatch` `SSM` `IAM` `Route 53`  
