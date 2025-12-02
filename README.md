@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kunal Mishra
 
-## 🚀 **Senior Software Engineer | Cloud Infrastructure Specialist** ☁️
+## 🚀 Senior Software Engineer & Cloud Infrastructure Specialist ☁️
 
 I build scalable, reliable, and maintainable systems. The kind that stay fast, observable, and easy to evolve as products grow.
 
@@ -17,9 +17,10 @@ I build scalable, reliable, and maintainable systems. The kind that stay fast, o
 ## 🛠️ Tech Stack — Core Competencies
 
 **Infrastructure & Cloud (AWS):**  
-`EC2` `ECS` `ECR` `RDS` `VPC` `IAM` `Route 53`  
-`S3` `EFS` `ELB` `API Gateway` `SSM`  
+`EC2` `ECS` `ECR` `RDS` `VPC` `Cloudwatch` `SSM` `IAM` `Route 53`  
+`S3` `EFS` `ELB` `API Gateway` `CloudFront`  
 `Lambda` `Lambda Layers` `Step Functions`  
+`KMS` `ACM` `WAF` `GuardDuty`
 `SQS` `SNS` `SES`  
 `Site-to-Site VPN`
 
